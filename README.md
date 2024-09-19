@@ -25,5 +25,6 @@ The Excel format operational datasets are stored in the AWS S3 package. The conf
 These datasets are further used by AWS to explore and analyze the defined metrics.  
 After data exploration, the AWS packages bifurcate the information in various formats. To make it easy, it is essential to name the storage folders as brief and simple as possible to easily access. 
 # Data Pipeline Design:
-A diagram of a company
+pipeline.docx
+
 
